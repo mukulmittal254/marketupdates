@@ -1,1 +1,8 @@
+fastapi
+uvicorn
+httpx
+pydantic
+apscheduler
+websockets
+python-dotenv
 pytest
